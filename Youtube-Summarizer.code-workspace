@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "Youtube-Summarizer",
+			"path": "."
+		},
+		{
+			"name": ".devcontainer",
+			"path": "../../Youtube-Summariser/.devcontainer"
+		}
+	],
+	"settings": {}
+}
